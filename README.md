@@ -71,7 +71,6 @@ profile = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -134,18 +133,19 @@ profile = {
 
 <div align="center">
 
-```
-🧬  Brain Tumor Classification Using Deep Learning & Ensemble Learning on MRI Images
-────────────────────────────────────────────────────────────────────────────────────
-Status    →  🟢 Ongoing
-Role      →  Research Assistant
-Supervisor→  Mr. Hassan Butt (COMSATS Wah & HI-TECH University Islamabad)
-────────────────────────────────────────────────────────────────────────────────────
-Architectures  :  CNN  ·  ResNet50  ·  EfficientNet  ·  CBAM Attention Mechanisms
-Techniques     :  Transfer Learning  ·  Ensemble Learning  ·  Medical Image Augmentation
-Goal           :  Higher classification accuracy + improved validation stability
-                  compared to single-model approaches in medical MRI diagnosis
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&multiline=false&width=780&height=40&lines=%F0%9F%A7%AC+Brain+Tumor+Classification+%E2%80%94+Deep+Learning+%26+Ensemble+Learning+on+MRI+Images;%F0%9F%9F%A2+Status%3A+Ongoing+%C2%B7+Role%3A+Research+Assistant;%F0%9F%A7%A0+Architectures%3A+CNN+%C2%B7+ResNet50+%C2%B7+EfficientNet+%C2%B7+CBAM+Attention;%F0%9F%94%AC+Techniques%3A+Transfer+Learning+%C2%B7+Ensemble+Learning+%C2%B7+Medical+Imaging;%F0%9F%8E%AF+Goal%3A+Higher+accuracy+%26+validation+stability+vs+single-model+approaches;%F0%9F%91%A4+Supervisor%3A+Mr.+Hassan+Butt+%E2%80%94+COMSATS+Wah+%26+HI-TECH+University" alt="Research Typing" />
+
+<br/>
+
+| Field | Detail |
+|-------|--------|
+| 📌 **Title** | Brain Tumor Classification Using Deep Learning & Ensemble Learning on MRI Images |
+| 🟢 **Status** | Ongoing |
+| 👤 **Role** | Research Assistant |
+| 👨‍🏫 **Supervisor** | Mr. Hassan Butt — COMSATS Wah & HI-TECH University Islamabad |
+| 🧠 **Architectures** | CNN · ResNet50 · EfficientNet · CBAM Attention Mechanisms |
+| 🔬 **Techniques** | Transfer Learning · Ensemble Learning · Medical Image Augmentation |
+| 🎯 **Goal** | Higher classification accuracy + improved validation stability vs single-model approaches |
 
 </div>
 
@@ -172,23 +172,20 @@ Goal           :  Higher classification accuracy + improved validation stability
 
 ## 📈 Semester-by-Semester Growth
 
-```
-S1 [Fall 2024]   ── C++ · Problem Solving · System Design Basics
-         │              Financial Management System (Tax, Asset Prediction)
-         ▼
-S2 [Spring 2025] ── Applied Programming · Structured Development
-         │              Expanding toward modular systems
-         ▼
-S3 [Fall 2025]   ── OOP · Databases · Computer Networking
-         │              CureOne (Java + MySQL + Swing)
-         │              Network CMD Panel (TCP Sockets + Python)
-         │              Enrolled in PNY AI Engineering Program
-         ▼
-S4 [Spring 2026] ── AI Engineering · Cybersecurity · Advanced Data Structures
-         │              NOVA AI · Evidentia.pk · AlgoVision · CDSIAS · Hit & Check
-         │              HEC GenAI Cohort 2 · HackData V1
-         └──────────── Active Research Assistance (Brain Tumor MRI Classification)
-```
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=2500&pause=1000&color=5B8BF7&center=true&vCenter=true&multiline=false&width=780&height=40&lines=%F0%9F%93%98+S1+%5BFall+2024%5D+%E2%94%80%E2%94%80+C%2B%2B+%C2%B7+Problem+Solving+%C2%B7+Financial+Management+System;%F0%9F%93%97+S2+%5BSpring+2025%5D+%E2%94%80%E2%94%80+Applied+Programming+%C2%B7+Modular+Systems;%F0%9F%93%99+S3+%5BFall+2025%5D+%E2%94%80%E2%94%80+OOP+%C2%B7+Databases+%C2%B7+Networking+%C2%B7+CureOne+%C2%B7+TCP+Sockets;%F0%9F%93%95+S4+%5BSpring+2026%5D+%E2%94%80%E2%94%80+AI+Engineering+%C2%B7+Deep+Learning+%C2%B7+Hackathons;%F0%9F%9A%80+Now%3A+NOVA+AI+%C2%B7+Evidentia.pk+%C2%B7+AlgoVision+%C2%B7+CDSIAS+%C2%B7+MRI+Research" alt="Semester Growth Typing" />
+
+</div>
+
+<br/>
+
+| Semester | Period | Core Focus | Key Projects |
+|----------|--------|------------|--------------|
+| **S1** | Fall 2024 | C++ · Problem Solving · System Design Basics | Financial Management System (Tax, Asset Prediction) |
+| **S2** | Spring 2025 | Applied Programming · Structured Development | Modular systems · Independent AI exploration begins |
+| **S3** | Fall 2025 | OOP · Databases · Computer Networking | CureOne (Java + MySQL + Swing) · Network CMD Panel (TCP Sockets) · PNY AI Engineering enrolled |
+| **S4** ⚡ | Spring 2026 | AI Engineering · Cybersecurity · Advanced Data Structures | NOVA AI · Evidentia.pk · AlgoVision · CDSIAS · Hit & Check · HEC GenAI Cohort 2 · HackData V1 · MRI Research |
 
 ---
 
